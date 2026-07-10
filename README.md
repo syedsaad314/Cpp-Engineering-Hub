@@ -54,7 +54,7 @@ Every project in this hub is structurally organized for scalability and readabil
 
 <h3><code>👨‍💻 Developer Identity</code></h3>
 
-**Syed Saad Bin Irfan** *Full Stack Developer | Software Engineering Student*
+***Syed Saad Bin Irfan*** - *Full Stack Developer | Software Engineering Student*
 
 I focus heavily on bridging backend logic with scalable frontend design. While my primary expertise lies in full-stack ecosystems, C++ remains a fundamental part of my toolkit for mastering pure software architecture, data structures, and complex problem-solving.
 
