@@ -25,9 +25,11 @@ A high-performance, modular C++ Hangman implementation designed for scalability.
 <br>
 
 <h3><code>🚀 Quick Start</code></h3>
+
 ```powershell
 # Compile the project
 g++ main.cpp src/*.cpp -I include -o HangmanGame
+``` 
 
 # Run the game
 ./HangmanGame
