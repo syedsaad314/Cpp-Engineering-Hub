@@ -34,4 +34,7 @@ g++ main.cpp src/*.cpp -I include -o HangmanGame
 ``` 
 
 # Run the game
+
+```powershell
 ./HangmanGame
+```
