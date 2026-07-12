@@ -1,0 +1,17 @@
+# Compiled Binaries and Executables
+*.exe
+*.out
+*.app
+*.bin
+
+# Object Files and Intermediate Builds
+*.o
+*.obj
+*.pdb
+*.ilk
+*.gch
+
+# IDE specific files
+.vscode/
+.idea/
+*.user
