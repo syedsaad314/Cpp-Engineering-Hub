@@ -25,7 +25,7 @@ namespace HangmanEngine {
 
     void GameEngine::ExecuteLoopTick() {
         interfaceRenderer.ClearConsole();
-        interfaceRenderer.PrintBoxMessage("MADE BY SIDHARTH | ARCHITECTURAL UPDATE BY SAAD", true, true, FG_YELLOW);
+        interfaceRenderer.PrintBoxMessage("ENGINE DESIGNED & ENGINEERED BY SYED SAAD", true, true, FG_YELLOW);
         
         interfaceRenderer.DrawVisualScaffold(guessCount);
         interfaceRenderer.DisplayRemainingAlphabet(guessedWord);
