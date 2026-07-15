@@ -56,12 +56,12 @@ Below is the live console layout displaying the calculated output using your exa
  [ ✓ ] Astronomical Mapping Completed Successfully!                              
 
  ╔══════════════════════════════════════════════════════════════════╗
- ║                  ★  CELESTIAL PROFILE CARD  ★                  ║
+ ║                  ★  CELESTIAL PROFILE CARD  ★                   ║
  ╠══════════════════════════════════════════════════════════════════╣
  ║ Astronomer Name:  Syed_Saad_bin_Irfan                            ║
  ║ Date System:      14/4                                           ║
  ╠══════════════════════════════════════════════════════════════════╣
- ║ Constellation:    Aries ♈                                        ║
+ ║ Constellation:    Aries ♈                                      ║
  ║ Transit Window:   March 21 - April 19                            ║
  ║ Birthstone:       Diamond                                        ║
  ╠══════════════════════════════════════════════════════════════════╣
