@@ -1,8 +1,6 @@
 <div align="center">
-  <br>
   <h1> C++ Engineering Hub</h1>
 </div>
-<hr>
 
 This repository serves as a dedicated workspace for my C++ software engineering projects. It is built to demonstrate clean architecture, optimized logic, and modular design. Every application here is developed from scratch, applying core object-oriented principles, efficient memory management, and structured codebases to solve real-world problems and build interactive systems.
 
