@@ -23,7 +23,7 @@ Architectural Design • Visual Report Previews • Key Implementations • Proj
 
 ---
 
-<code?><h3>📑Contents</h3></code>
+<h3><code>📑Contents</code></h3>
 
 - [👨‍💻 Lead Software Architect](#-lead-software-architect)
 - [🧭 Architectural Design](#-architectural-design)
@@ -36,7 +36,7 @@ Architectural Design • Visual Report Previews • Key Implementations • Proj
 
 ---
 
-<code><h3>👨‍💻Lead Software Architect</h3></code>
+<h3><code>👨‍💻Lead Software Architect</code></h3>
 
 **Architect:** Syed Saad Bin Irfan
 
@@ -46,13 +46,13 @@ Architectural Design • Visual Report Previews • Key Implementations • Proj
 
 ---
 
-<code><h3>🧭Architectural Design</h3></code>
+<h3><code>🧭Architectural Design</code></h3>
 
 MedCare Systems OS is an enterprise-grade terminal solution built to completely replace outdated, unportable legacy console patterns (e.g., `<conio.h>`, raw structural file dumps). It implements a secure, modular Object-Oriented paradigm using structured database engines, bulletproof memory validation buffers, and clinical prioritization algorithms.
 
 ---
 
-<code><h3>📊Visual Report Previews</h3></code>
+<h3><code>📊Visual Report Previews</code></h3>
 
 The core system outputs structured, highly scannable, and clean tabular data reports formatted with dynamic console colors:
 
@@ -80,14 +80,11 @@ The core system outputs structured, highly scannable, and clean tabular data rep
 
 <h3>2. Comprehensive Medical Clearance & Billing Invoice</h3>
 
-<details>
-<summary>📄 Click to expand full billing invoice</summary>
-
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                MEDCARE OS — CLINICAL FINANCIAL CLEARANCE                     ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║ PATIENT ID: #1024                  DIAGNOSIS: Acute Myocardial Infarction  ║
+║ PATIENT ID: #1024                    DIAGNOSIS: Acute Myocardial Infarction  ║
 ║ NAME: Ali Raza                       WARD: ICU (Bed Slot #12)                ║
 ║ ATTENDING: Dr. Imran Ahmed (Cardio)  INSURANCE RATE: 80% Policy Shield       ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
@@ -107,7 +104,6 @@ The core system outputs structured, highly scannable, and clean tabular data rep
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-</details>
 
 <h3>3. Diagnostic Laboratory Worklist Matrix</h3>
 
@@ -122,7 +118,7 @@ The core system outputs structured, highly scannable, and clean tabular data rep
 
 ---
 
-<code><h3>Key Implementations</h3></code>
+<h3><code>Key Implementations</code></h3>
 
 🛡️ **Robust Serialization Engine:** Eradicated compiler structural padding risks by compiling and writing custom pipe-delimited data packets (`|`), guaranteeing complete data serialization safety across various platforms.
 
@@ -152,13 +148,13 @@ MedCareSystem/
 
 ---
 
-<code><h3>📋Prerequisites</h3></code>
+<h3><code>📋Prerequisites</code></h3>
 
 Ensure a modern standard-compliant C++ compiler with C++11 standard support or higher (GCC, MSVC, Clang) is installed in your environment.
 
 ---
 
-<code?><h3>🔨 Building the Project</h3></code>
+<h3><code>🔨 Building the Project</code></h3>
 
 Navigate to the root workspace directory and run the compilation sequence:
 
@@ -172,7 +168,7 @@ g++ -std=c++17 src/*.cpp -I include -Wall -O3 -o MedCareSystem
 
 ---
 
-<code><h3>Running the Executable</h3></code>
+<h3><code>Running the Executable</code></h3>
 
 ```bash
 # On Linux / macOS
@@ -184,9 +180,9 @@ g++ -std=c++17 src/*.cpp -I include -Wall -O3 -o MedCareSystem
 
 ---
 
-<code><h3>Code Implementations</h3></code>
+<h3><code>Code Implementations</code></h3>
 
-<code><h2>Stream Security Handlers</h2></code>
+<h2><code>Stream Security Handlers</code></h2>
 
 ```cpp
 // Prevents standard buffer pollution from non-numeric entry bugs
@@ -207,7 +203,7 @@ int MedCenterOS::getValidatedInteger(const std::string& prompt, int minVal, int 
 }
 ```
 
-<code><h2>Strict Output Serialization Pattern</h2></code>
+<h2><code>Strict Output Serialization Pattern</code></h2>
 
 ```cpp
 // Compiles patient records with absolute safety inside a single flat line
@@ -222,7 +218,7 @@ std::string Patient::serialize() const {
 
 ---
 
-<div align="right">
+<div align="center">
 
 **Built by** ***Syed Saad Bin Irfan*** — BSSE'28, DCS-UBIT, University of Karachi
 
