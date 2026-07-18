@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Platform-Windows_Console-0078D6.svg?style=for-the-badge&logo=windows" alt="Platform Support" />
   <img src="https://img.shields.io/badge/Architecture-Modular_OOP-brightgreen.svg?style=for-the-badge" alt="Architecture Pattern" />
 </p>
+
 ```
 ██████╗ ███╗   ██╗ █████╗ ██╗  ██╗███████╗      ██╗ ██████╗ 
 ██╔════╝████╗  ██║██╔══██╗██║ ██╔╝██╔════╝      ██║██╔═══██╗
