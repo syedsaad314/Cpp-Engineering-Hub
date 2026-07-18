@@ -101,7 +101,7 @@ cd SnakeGame-IO
 g++ main.cpp src/SnakeEngine.cpp -I include -Wall -O3 -std=c++17 -o SnakeIO.exe
 ```
  
-**3. Run the engine**
+**3. Run the Game**
 ```powershell
 ./SnakeIO.exe
 ```
