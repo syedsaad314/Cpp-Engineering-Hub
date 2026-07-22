@@ -32,7 +32,7 @@ This repository serves as a dedicated workspace for my C++ software engineering 
 | <br>&nbsp;&nbsp;🎮 **[Hangman Game](./Hangman)**&nbsp;&nbsp;<br><br> | <br>&nbsp;&nbsp;A terminal-based word guessing game utilizing string manipulation and error handling.&nbsp;&nbsp;<br><br> |
 | <br>&nbsp;&nbsp;🏓 **[Terminal Pong](./Pong)**&nbsp;&nbsp;<br><br> | <br>&nbsp;&nbsp;A high-performance modular retro arcade engine featuring custom double-buffered rendering and adaptive CPU AI.&nbsp;&nbsp;<br><br> |
 | <br>&nbsp;&nbsp;🔮 **[AstroCalc - Horoscope Calculator](./HoroscopeCalculator)**&nbsp;&nbsp;<br><br> | <br>&nbsp;&nbsp;An interactive tool that calculates zodiac signs and traits based on user input.&nbsp;&nbsp;<br><br> |
-| <br>&nbsp;&nbsp;🏥 **[Hospital Management](./HospitalManagement)**&nbsp;&nbsp;<br><br> | <br>&nbsp;&nbsp;A structured backend system utilizing OOP to handle patient and staff records.&nbsp;&nbsp;<br><br> |
+| <br>&nbsp;&nbsp;🏥 **[Hospital Management](./MedCareSystem)**&nbsp;&nbsp;<br><br> | <br>&nbsp;&nbsp;A structured backend system utilizing OOP to handle patient and staff records.&nbsp;&nbsp;<br><br> |
 | <br>&nbsp;&nbsp;🐍 **[Snake.IO](./SnakeGame-IO)**&nbsp;&nbsp;<br><br> | <br>&nbsp;&nbsp;The classic arcade game, fully playable in the terminal with basic rendering.&nbsp;&nbsp;<br><br> |
 | <br>&nbsp;&nbsp;🌳 **[Rooted Kin Legacy](./RootedKinLegacy)**&nbsp;&nbsp;<br><br> | <br>&nbsp;&nbsp;A family tree map visualizer using complex data structures and pointers.&nbsp;&nbsp;<br><br> |
 | <br>&nbsp;&nbsp;🧩 **[Sudoku Checker](./SudokuChecker)**&nbsp;&nbsp;<br><br> | <br>&nbsp;&nbsp;A grid validation algorithm to verify if a given Sudoku board is solved correctly.&nbsp;&nbsp;<br><br> |
